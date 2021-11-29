@@ -29,10 +29,10 @@ async def start(client, message):
                    [
 
                      InlineKeyboardButton(
-                        text="Channel 🙋‍♀️", url="https://t.me/VndBotSupport"
+                        text="Channel 🙋‍♀️", url="https://t.me/SDBOTs_Inifinity"
                     ),
                     InlineKeyboardButton(
-                        text="Dev 🔥", url="https://t.me/Venuja_Sadew"
+                        text="Dev 🔥", url="https://t.me/Itz_Sadew"
                     ),
 
                     InlineKeyboardButton(
