@@ -26,19 +26,12 @@ async def start(client, message):
         btn = InlineKeyboardMarkup(
             [
                 [
-                   [
-
                      InlineKeyboardButton(
                         text="Channel 🙋‍♀️", url="https://t.me/VndBotSupport"
                     ),
                     InlineKeyboardButton(
                         text="Dev 🔥", url="https://t.me/Venuja_Sadew"
-                    ),
-
-                    InlineKeyboardButton(
-                        text="Repo ✨", url="https://github.com/VenujaBots/VD-SongBot"
                     )
-                ]    
             ]
         )
     else:
