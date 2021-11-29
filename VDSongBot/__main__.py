@@ -31,7 +31,7 @@ async def start(client, message):
                     ),
                     InlineKeyboardButton(
                         text="Dev 🔥", url="https://t.me/Venuja_Sadew"
-                    )
+                    ),
             ]
         )
     else:
